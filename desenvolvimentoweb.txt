@@ -1,0 +1,15 @@
+https://www.python.org/  - Usar Djando para desenvolver
+
+
+https://git-scm.com/  - Feio para versionar os codigos
+
+
+https://code.visualstudio.com/ - IDE que usaremos com editor de texto
+
+
+
+https://sqlitebrowser.org/  - Sistema de direnciamento de uma base de dados
+
+
+
+https://www.google.com/search?q=google+chrome&rlz=1C1FCXM_pt-PTBR1047BR1047&ei=sb38Y5CtDPOS5OUP2s2i6Ag&oq=google+chor&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAxgAMgQIABBDMgcIABCABBAKMgcIABCABBAKMgcIABCABBAKMgcIABCABBAKMgcIABCABBAKMgcIABCABBAKMgcIABCABBAKMgcIABCABBAKMgcIABCABBAKOgoIABBHENYEELADOgcIABCwAxBDOgwIABDqAhC0AhBDGAE6CgguEMcBENEDEEM6BQgAEIAESgQIQRgAUIh_WIaSAWC0oAFoAnABeACAAXCIAegIkgEDNC43mAEAoAEBsAEKyAEKwAEB2gEECAEYBw&sclient=gws-wiz-serp - Utilizado para renderizar o site
