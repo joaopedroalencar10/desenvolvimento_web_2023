@@ -15,4 +15,4 @@ https://sqlitebrowser.org/  - Sistema de direnciamento de uma base de dados
 https://www.google.com/search?q=google+chrome&rlz=1C1FCXM_pt-PTBR1047BR1047&ei=sb38Y5CtDPOS5OUP2s2i6Ag&oq=google+chor&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAxgAMgQIABBDMgcIABCABBAKMgcIABCABBAKMgcIABCABBAKMgcIABCABBAKMgcIABCABBAKMgcIABCABBAKMgcIABCABBAKMgcIABCABBAKMgcIABCABBAKOgoIABBHENYEELADOgcIABCwAxBDOgwIABDqAhC0AhBDGAE6CgguEMcBENEDEEM6BQgAEIAESgQIQRgAUIh_WIaSAWC0oAFoAnABeACAAXCIAegIkgEDNC43mAEAoAEBsAEKyAEKwAEB2gEECAEYBw&sclient=gws-wiz-serp - Utilizado para renderizar o site
 
 
-Protocolo proprietario : NETBIOS https://pt.wikibooks.org/wiki/Redes_de_computadores/Protocolos_e_servi%C3%A7os_de_rede
+Protocolo proprietario : NetBIOS / NetBIOS sobre TCP/IP fornece a interface de programação NetBIOS sobre o protocolo TCP/IP.Ele estende o alcance dos programas de cliente e servidor NetBIOS para a WAN 
