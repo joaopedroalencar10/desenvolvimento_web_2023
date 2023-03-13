@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lange="pt-br">
+    <head>
+        <title>exemplo  span </title>
+        <meta charset="utf-8"> 
+    </head>
+    <body>
+        <span>Primeiro</span>
+    <p>Primeiro parágrafo</p>
+    </body>
+</html>
+"

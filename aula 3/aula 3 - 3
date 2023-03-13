@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lange="pt-br">
+    <head> 
+        <link href ="Style.css/style.css" type="text/css"/>     
+        <title>exemplo div</title>
+        <meta charset="utf-8"> 
+    </head>
+    <body>
+        <h1>Uma página nova</h1>
+        <div>Um teste
+       </div>
+    </body>
+</html>

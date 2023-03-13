@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lange="pt-br">
+    <head>
+        <title>exemplo lista</title>
+        <meta charset="utf-8"> 
+    </head>
+    <body>
+       <ul>
+        <li>Primeiro</li>
+        <li>segundo</li>
+        <ol>
+            <li>terceiro</li>
+            <li>quarto</li>
+        </ol>
+    </li>
+    </ul>
+    </body>
+</html>
+"
