@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Exemplo del,ins,strong,em </title>
+</head>
+<body>
+    <p> Hoje <del>choveu</del> <ins>na rua</ins>,<strong>Como nunca choveu antes</strong>.<em>Pelo menos</em> ninguem se feriu
+    
+    </p> 
+</body>
+</html>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+ 
+    <title>Exemplo form</title>
+</head>
+<body>
+    <form method="get">
+        <label>Name:
+            <input name="nome enviado" autocomplete="nome">
+        </label>
+        <button>Salvar</button>
+        <form method="post">
+            <label>Name:
+                <input name="nome enviado" autocomplete="nome">
+            </label>
+            <button>Salvar</button>
+</body>
+</html>

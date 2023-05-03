@@ -1,0 +1,24 @@
+h1{  
+    font-family : verdana;
+ font-size: 20px;
+}
+h1{
+    color:red;
+}
+div{
+    background-color:pink;
+}
+body{
+    font-family: 'Open Sans';
+    font-size: 20px;
+
+}
+div{ 
+    font-size: 60px;
+    height: 5em;
+  }
+  
+  span{
+    background-color: blue;
+    color: red;
+    font-weight:bold;  }

@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lange="pt-br">
+    <head>
+        <title>Exemplo p </title>
+        <meta charset="utf-8"> 
+        <link rel ="stylesheet" href="style/style.css">
+    </head>
+    <body>
+    <p>Primeiro parágrafo</p>
+    </body>
+</html>
+"
